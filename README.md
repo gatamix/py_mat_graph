@@ -8,5 +8,7 @@ Matplotlibを使用したグラフの表し方について
 * Noto Sans CJK JP
 * times New Roman
 * Arial
+
 [4] ２つのデータのプロット
+
 plot()
